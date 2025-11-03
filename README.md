@@ -104,6 +104,8 @@ python budget_app.py
 ---
 ## Project Resources
 
+## Project Resources
+
 | Resource | Link |
 |---------|------|
 | **Live Web App** | https://huggingface.co/spaces/Toobaaaa/personal-budget-planner |
