@@ -84,13 +84,6 @@ No HTML, CSS, or JavaScript is required.
 
 ---
 
-## Presentation Slides
-You can view or download the presentation slides used for this project here:
-
-**[Download the Presentation (PPTX)](https://github.com/Tooba-E131/personal-budget-planner-gradio/blob/main/Gradio_Tooba%20Edhi.pptx)**
-
----
-
 ## Project Resources
 
 | Resource | Link |
