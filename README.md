@@ -91,6 +91,16 @@ You can view or download the presentation slides used for this project here:
 
 ---
 
+## Project Resources
+
+| Resource | Link |
+|---------|------|
+| **Live Web App** | https://huggingface.co/spaces/Toobaaaa/personal-budget-planner |
+| **Presentation Slides (PPTX)** | https://github.com/Tooba-E131/personal-budget-planner-gradio/blob/main/Gradio_Tooba%20Edhi.pptx |
+| **Source Code Repository** | https://github.com/Tooba-E131/personal-budget-planner-gradio |
+
+---
+
 ## Running the App Locally
 
 1. Clone the repository:
@@ -100,15 +110,3 @@ git clone https://github.com/Tooba-E131/personal-budget-planner-gradio.git
 cd personal-budget-planner-gradio
 pip install -r requirements.txt
 python budget_app.py
-
----
-## Project Resources
-
-**Live Web App:**  
-https://huggingface.co/spaces/Toobaaaa/personal-budget-planner
-
-**Presentation Slides (PPTX):**  
-https://github.com/Tooba-E131/personal-budget-planner-gradio/blob/main/Gradio_Tooba%20Edhi.pptx
-
-**Source Code Repository:**  
-https://github.com/Tooba-E131/personal-budget-planner-gradio
