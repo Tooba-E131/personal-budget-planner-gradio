@@ -24,6 +24,15 @@ This app highlights how data science logic can be made **accessible and interpre
 
 ---
 
+## Live Demo (Permanent Hosting)
+
+Run the app instantly:
+
+ **https://huggingface.co/spaces/Toobaaaa/personal-budget-planner**
+
+---
+
+
 ## Why Gradio?
 
 In many data science workflows, models or analysis tools remain within Jupyter notebooks, where only technical users can interact with them.  
@@ -72,6 +81,13 @@ The UI is built using Gradio’s `gr.Blocks()` layout system and includes:
 - A file download button for the final report
 
 No HTML, CSS, or JavaScript is required.
+
+---
+
+## Presentation Slides
+You can view or download the presentation slides used for this project here:
+
+**[Download the Presentation (PPTX)](https://github.com/Tooba-E131/personal-budget-planner-gradio/blob/main/Gradio_Tooba%20Edhi.pptx)**
 
 ---
 
