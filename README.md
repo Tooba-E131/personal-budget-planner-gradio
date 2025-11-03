@@ -80,5 +80,7 @@ No HTML, CSS, or JavaScript is required.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/personal-budget-planner-gradio.git
+git clone https://github.com/Tooba-E131/personal-budget-planner-gradio.git
 cd personal-budget-planner-gradio
+pip install -r requirements.txt
+python budget_app.py
